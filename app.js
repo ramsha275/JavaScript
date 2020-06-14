@@ -15,8 +15,6 @@
 
 // Q5
 //console.log("Hello! I can run JS through my web browser's console")
-
-// 6 // 7
  
 
 // ASSIGNMENT 2 
