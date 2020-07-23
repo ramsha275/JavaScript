@@ -340,11 +340,6 @@
 // var timeDiff=date2.getTime()-date1.getTime()
 // alert(timeDiff/1000+" seconds")
 
-// Q11
-// 11. Create a Date object for the current date and time.
-// Extract the hours, reset the date object an hour ahead and
-// finally display the date object in your browser.
-
 // Q12
 // var date=new Date('1920');
 // alert(date)
